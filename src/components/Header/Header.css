@@ -1,0 +1,6 @@
+nav div a{
+    margin-left: 32px;
+}
+nav div a:hover{
+    color: #FF9900;
+}
